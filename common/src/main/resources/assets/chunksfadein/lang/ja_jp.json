@@ -39,7 +39,7 @@
     "settings.chunksfadein.animation_type.tooltip": "アニメーションの見た目を設定します",
     "settings.chunksfadein.animation_type.full": "フル",
     "settings.chunksfadein.animation_type.jagged": "ギザギザ",
-    "settings.chunksfadein.animation_type.displacement": "移動",
+    "settings.chunksfadein.animation_type.displacement": "置換",
     "settings.chunksfadein.animation_type.scale": "スケール",
     "settings.chunksfadein.animation_start": "アニメーション開始",
     "settings.chunksfadein.animation_start.tooltip": "チャンクの動きの開始位置を設定します。\n「フル」アニメーションタイプでのみ使用されます",
