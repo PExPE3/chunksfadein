@@ -9,7 +9,7 @@
     "settings.chunksfadein.units.blocks": " ブロック",
     "settings.chunksfadein.units.degrees": "°",
     "settings.chunksfadein.mod_enabled": "Modを有効化",
-    "settings.chunksfadein.mod_enabled.tooltip": "無効にすると、フェードやアニメーションなどの表示効果もすべてオフになります。\nこのメニューを使わずに切り替えられるキーを設定することもできます",
+    "settings.chunksfadein.mod_enabled.tooltip": "無効にすると、フェードやアニメーションなどの表示効果も全て無効になります。\nこのメニューを使わずに切り替えられるキーを設定することもできます",
     "settings.chunksfadein.update_notifier_enabled": "アップデート通知",
     "settings.chunksfadein.update_notifier_enabled.tooltip": "ワールドに参加したときにアップデート通知を有効にします",
     "settings.chunksfadein.mod_tab_enabled": "設定にModタブを追加",
